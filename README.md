@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yeliz</h1>
-<h3 align="center">A passionate programming student at Thomas More University of Applied Sciences and also future front-end developer.</h3>
+<h3 align="center">A passionate programming student at Thomas More University of Applied Sciences and also future full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yelizpoyraz&label=Profile%20views&color=0e75b6&style=flat" alt="yelizpoyraz" /> </p>
 
